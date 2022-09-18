@@ -1,4 +1,14 @@
-### Hi there 👋
+### Gude 👋, I'm Samuel
+Just another media dude
+
+#### About me
+⏳ 24yo
+🏢 KOBIL GmbH as Junior Software Developer
+🎧 Also working as Sound Engineer / Webdesigner
+🎓 BA Sound and Music Production
+🎹 Playing Piano, Guitar, and am singing.
+✝ Believing in God
+
 
 <!--
 **samuelspagl/samuelspagl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
