@@ -2,12 +2,12 @@
 Just another media dude
 
 #### About me
-⏳ 24yo
-🏢 KOBIL GmbH as Junior Software Developer
-🎧 Also working as Sound Engineer / Webdesigner
-🎓 BA Sound and Music Production
-🎹 Playing Piano, Guitar, and am singing.
-✝ Believing in God
+- ⏳ 24yo
+- 🏢 KOBIL GmbH as Junior Software Developer
+- 🎧 Also working as Sound Engineer / Webdesigner
+- 🎓 BA Sound and Music Production
+- 🎹 Playing Piano, Guitar, and am singing.
+- ✝ Believing in God
 
 
 <!--
