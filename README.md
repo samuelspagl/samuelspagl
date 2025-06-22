@@ -2,8 +2,8 @@
 Just another media dude
 
 #### About me
-- ⏳ 25yo
-- 🏢 KOBIL GmbH as Software Developer
+- ⏳ 27yo
+- 🏢 KOBIL GmbH as Project Manager / Consultant
 - 🎧 Also working as Sound Engineer / Webdesigner
 - 🎓 BA Sound and Music Production
 - 🎹 Playing Piano, Guitar, and am singing.
