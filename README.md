@@ -15,6 +15,14 @@ Gude! I'm Samuel — a pre-sales consultant who enjoys getting hands-on with cod
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🏡 <a href="https://github.com/samuelspagl/heute">Heute — self-hosted start page</a></h3>
+      <p>A personal browser start page for the family, bringing together calendar, weather, RSS news and shortcuts. Includes Pocket ID sign-in and integrations with Home Assistant and Nextcloud.</p>
+      <p><code>Nuxt 4</code> <code>TypeScript</code> <code>SQLite</code> <code>Docker</code></p>
+      <p><a href="https://github.com/samuelspagl/heute">Explore the project &amp; preview ↗</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/samuelspagl/nextcloud-churchtools-chat">ChurchTools Chat</a></h3>
       <p>Experimental Nextcloud chat application integrating ChurchTools and Matrix, built around a Vue 3 interface and user-scoped access.</p>
